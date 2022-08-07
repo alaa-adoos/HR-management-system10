@@ -1,0 +1,31 @@
+
+
+.card{
+    
+        /* Add shadows to create the "card" effect */
+    
+
+
+  width:220px;
+background-color: green;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+
+  margin-top: 5px;
+  padding: 2px 16px;
+    
+    display: flex;
+ justify-content: space-between;
+
+
+}
+.container{
+ width: 220px;
+ padding: 2px 16px;
+ display: flex;
+ justify-content:space-between;
+justify-content: flex-start;
+background-color: green;
+
+
+}
